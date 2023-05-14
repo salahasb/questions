@@ -1,0 +1,294 @@
+[
+  {
+    "name": "HTML",
+    "questions": [
+      {
+        "question": "What is the latest version of HTML?",
+        "answers": ["HTML5", "HTML4", "XHTML", "XML", "SGML"],
+        "correctAnswer": "HTML5"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "answers": [
+          "Hyper Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyperlinks and Text Markup Language",
+          "Hyperlinks Text Markup Language",
+          "HTML Markup Language"
+        ],
+        "correctAnswer": "HTML5"
+      },
+      {
+        "question": "Which tag is used to define a hyperlink in HTML?",
+        "answers": ["<a>", "<h1>", "<p>", "<div>", "<span>"],
+        "correctAnswer": "<a>"
+      },
+      {
+        "question": "Which HTML attribute specifies an alternate text for an image?",
+        "answers": ["src", "href", "alt", "title", "caption"],
+        "correctAnswer": "alt"
+      },
+      {
+        "question": "Which element is used to define the title of an HTML document?",
+        "answers": ["<head>", "<title>", "<body>", "<html>", "<meta>"],
+        "correctAnswer": "<html>"
+      },
+      {
+        "question": "Which HTML tag is used to define a table?",
+        "answers": ["<table>", "<tr>", "<td>", "<th>", "<div>"],
+        "correctAnswer": "<table>"
+      },
+      {
+        "question": "Which attribute is used to specify additional information about an element in HTML5?",
+        "answers": ["id", "class", "style", "data-*", "aria-*"],
+        "correctAnswer": "aria-*"
+      },
+      {
+        "question": "Which HTML element is used to define the navigation links in a webpage?",
+        "answers": ["<nav>", "<section>", "<article>", "<header>", "<footer>"],
+        "correctAnswer": "<nav>"
+      },
+      {
+        "question": "Which tag is used to define a list item in HTML?",
+        "answers": ["<li>", "<ul>", "<ol>", "<dl>", "<dt>"],
+        "correctAnswer": "<li>"
+      },
+      {
+        "question": "Which element is used to define the main content of an HTML document?",
+        "answers": ["<main>", "<section>", "<article>", "<body>", "<aside>"],
+        "correctAnswer": "<main>"
+      }
+    ]
+  },
+  {
+    "name": "CSS",
+    "questions": [
+      {
+        "question": "Which property is used to change the background color in CSS?",
+        "answers": [
+          "color",
+          "background-color",
+          "text-color",
+          "font-color",
+          "None of the above"
+        ],
+        "correctAnswer": "background-color"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "answers": [
+          "Cascading Style Sheets",
+          "Creative Style Sheets",
+          "Colorful Style Sheets",
+          "Computer Style Sheets",
+          "Crazy Style Sheets"
+        ],
+        "correctAnswer": "Cascading Style Sheets"
+      },
+      {
+        "question": "Which property is used to change the text color in CSS?",
+        "answers": ["color", "font-color", "text-color", "text", "font"],
+        "correctAnswer": "color"
+      },
+      {
+        "question": "Which CSS property is used to control the spacing between lines of text?",
+        "answers": [
+          "line-height",
+          "letter-spacing",
+          "word-spacing",
+          "text-spacing",
+          "line-spacing"
+        ],
+        "correctAnswer": "line-height"
+      },
+      {
+        "question": "Which CSS property is used to set the background color of an element?",
+        "answers": [
+          "background-color",
+          "bg-color",
+          "color",
+          "background",
+          "bg"
+        ],
+        "correctAnswer": "background-color"
+      },
+      {
+        "question": "Which CSS property is used to add shadows to elements?",
+        "answers": [
+          "box-shadow",
+          "shadow",
+          "text-shadow",
+          "element-shadow",
+          "drop-shadow"
+        ],
+        "correctAnswer": "box-shadow"
+      },
+      {
+        "question": "Which CSS property is used to control the size of an element's border?",
+        "answers": [
+          "border-width",
+          "border-size",
+          "border",
+          "border-height",
+          "border-style"
+        ],
+        "correctAnswer": "border-width"
+      },
+      {
+        "question": "Which CSS property is used to control the visibility of an element?",
+        "answers": ["display", "visibility", "hidden", "visible", "show"],
+        "correctAnswer": "visibility"
+      },
+      {
+        "question": "Which CSS property is used to align text horizontally?",
+        "answers": [
+          "text-align",
+          "align-text",
+          "horizontal-align",
+          "text-style",
+          "text-position"
+        ],
+        "correctAnswer": "text-align"
+      },
+      {
+        "question": "Which CSS property is used to add rounded corners to an element?",
+        "answers": [
+          "border-radius",
+          "corner-radius",
+          "rounded-corners",
+          "border-style",
+          "corner-style"
+        ],
+        "correctAnswer": "border-radius"
+      }
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "questions": [
+      {
+        "question": "Which keyword is used to declare variables in JavaScript?",
+        "answers": ["var", "let", "const", "variable", "None of the above"],
+        "correctAnswer": "let"
+      },
+      {
+        "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "answers": [
+          "<script src='script.js'></script>",
+          "<script href='script.js'></script>",
+          "<script link='script.js'></script>",
+          "<script name='script.js'></script>",
+          "<script file='script.js'></script>"
+        ],
+        "correctAnswer": "<script src='script.js'></script>"
+      },
+      {
+        "question": "Which operator is used to assign a value to a variable in JavaScript?",
+        "answers": ["=", "*", "+", "-", "%"],
+        "correctAnswer": "="
+      },
+      {
+        "question": "Which method is used to add an element to the end of an array in JavaScript?",
+        "answers": ["push()", "pop()", "shift()", "unshift()", "concat()"],
+        "correctAnswer": "push()"
+      },
+      {
+        "question": "Which function is used to convert a string to a number in JavaScript?",
+        "answers": [
+          "parseInt()",
+          "toString()",
+          "parseFloat()",
+          "Number()",
+          "toFixed()"
+        ],
+        "correctAnswer": "parseInt()"
+      },
+      {
+        "question": "Which statement is used to exit a loop in JavaScript?",
+        "answers": ["break", "return", "continue", "exit", "stop"],
+        "correctAnswer": "break"
+      }
+    ]
+  },
+  {
+    "name": "Python",
+    "questions": [
+      {
+        "question": "Which statement is used to define a function in Python?",
+        "answers": ["def", "function", "define", "fun", "fn"],
+        "correctAnswer": "def"
+      },
+      {
+        "question": "Which data type is used to store a sequence of characters in Python?",
+        "answers": ["String", "Integer", "Boolean", "List", "Tuple"],
+        "correctAnswer": "String"
+      },
+      {
+        "question": "Which keyword is used to loop through a sequence in Python?",
+        "answers": ["for", "while", "do", "repeat", "foreach"],
+        "correctAnswer": "for"
+      },
+      {
+        "question": "Which function is used to get the length of a list in Python?",
+        "answers": ["len()", "count()", "size()", "length()", "getLength()"],
+        "correctAnswer": "len()"
+      },
+      {
+        "question": "Which operator is used for exponentiation in Python?",
+        "answers": ["**", "*", "//", "%", "+"],
+        "correctAnswer": "**"
+      },
+      {
+        "question": "Which method is used to remove an item from a list in Python?",
+        "answers": ["remove()", "delete()", "pop()", "discard()", "clear()"],
+        "correctAnswer": "remove()"
+      },
+      {
+        "question": "Which keyword is used to define a conditional statement in Python?",
+        "answers": ["if", "else", "elif", "then", "case"],
+        "correctAnswer": "if"
+      },
+      {
+        "question": "Which data type is used to store a collection of unique elements in Python?",
+        "answers": ["Set", "Dictionary", "Tuple", "List", "Array"],
+        "correctAnswer": "Set"
+      }
+    ]
+  },
+  {
+    "name": "PHP",
+    "questions": [
+      {
+        "question": "Which of the following is the correct way to start a PHP script?",
+        "answers": ["<?php", "<script>", "<php>", "<?", "<?"],
+        "correctAnswer": "<?php"
+      },
+      {
+        "question": "Which function is used to output text in PHP?",
+        "answers": ["echo", "print", "printf", "display", "output"],
+        "correctAnswer": "echo"
+      },
+      {
+        "question": "Which operator is used to concatenate two strings in PHP?",
+        "answers": [".", "+", ",", "-", "*"],
+        "correctAnswer": "."
+      },
+      {
+        "question": "Which superglobal variable is used to access form data sent with the HTTP POST method?",
+        "answers": ["$_POST", "$_GET", "$_REQUEST", "$_SERVER", "$_SESSION"],
+        "correctAnswer": "$_POST"
+      },
+      {
+        "question": "Which function is used to include the contents of another PHP file?",
+        "answers": [
+          "include()",
+          "require()",
+          "import()",
+          "load()",
+          "include_once()"
+        ],
+        "correctAnswer": "include()"
+      }
+    ]
+  }
+]
